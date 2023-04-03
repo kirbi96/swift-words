@@ -1,2 +1,0 @@
-# swift-words
-learn swift
